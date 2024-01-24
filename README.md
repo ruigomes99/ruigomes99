@@ -9,7 +9,7 @@
 #
 <p align="center">
     <div align=center>
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=ruigomes99&show_icons=true&theme=dark&custom_title=GitHub%20Stats" alt="Rui's GitHub Stats">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruigomes99&theme=dark&layout=compact" alt="Rui's Most Used Languages">
+        <img height=170 src="https://github-readme-stats.vercel.app/api?username=ruigomes99&show_icons=true&theme=dark&custom_title=GitHub%20Stats" alt="Rui's GitHub Stats">
+        <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruigomes99&theme=dark&layout=compact" alt="Rui's Most Used Languages">
     </div>
 </p>
